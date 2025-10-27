@@ -1,0 +1,17 @@
+timestamp,comment,translated,prediction,confidence
+2025-10-27 21:35:46,"Te odio, eres un perdedor. ","Te odio, eres un perdedor. ",not_cyberbullying,0.6807
+2025-10-27 21:35:51,"Te odio, eres un perdedor. ","I hate you, you're a loser.",other_cyberbullying,0.4637
+2025-10-27 21:36:08,"Te odio, eres un perdedor. ","I hate you, you're a loser.",other_cyberbullying,0.4637
+2025-10-27 21:37:20,లంజాకొడకా,Lanzakodaka,not_cyberbullying,0.4529
+2025-10-27 21:37:51,J’aime ton énergie positive.,J’aime ton énergie positive.,not_cyberbullying,0.4221
+2025-10-27 21:37:57,J’aime ton énergie positive.,I love your positive energy.,not_cyberbullying,0.5056
+2025-10-27 21:38:15,तुम बहुत बेवकूफ हो।  ,You are very stupid.,other_cyberbullying,0.6754
+2025-10-27 21:40:28,"17. तुम बहुत अच्छे हो।  # (You are very good)
+18. तुम बहुत बेवकूफ हो।  # (You are very stupid)
+","17. तुम बहुत अच्छे हो।  # (You are very good)
+18. तुम बहुत बेवकूफ हो।  # (You are very stupid)
+",other_cyberbullying,0.4728
+2025-10-27 21:40:36,"17. तुम बहुत अच्छे हो।  # (You are very good)
+18. तुम बहुत बेवकूफ हो।  # (You are very stupid)
+","17. You are very nice.  # (You are very good)
+18. You are so stupid.  # (You are very stupid)",other_cyberbullying,0.4642
